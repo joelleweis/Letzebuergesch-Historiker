@@ -1,2 +1,2 @@
-# Letzebuergesch-Historiker
-Workflow Wikipedia "Lëtzebuergesch Historiker"
+# Workflow Wikipedia "Lëtzebuergesch Historiker"
+Dies ist ein Workflow zur Extraktion der Wikipedia-Texte der Kategorie "Lëtzebuergesch Historiker" (Luxemburgische Historiker). Das Programm erstellt ein Dokument "letzebuergesch_historiker_texte.csv" mit den Volltexten, auf dessen Basis eine Named Entity Recognition für die genannten Orte durchgeführt wird. Das Ergebnis ist eine Tabelle "gephi_edges_historiker_orte.csv".
